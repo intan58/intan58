@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @intan58
 - 👀 I’m interested in computer and design
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning design
+- 💞️ I’m looking to collaborate on design
+- 📫 How to reach me intanmusyaadah@gmail.com
 
 <!---
 intan58/intan58 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
